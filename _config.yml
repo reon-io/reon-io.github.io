@@ -1,0 +1,27 @@
+# Site settings
+title: REON.IO
+email: reon@reon.io
+url: http://reon-io.github.io
+intro: "A secure, device to device connectivity framework."
+description: "REON.IO is a secure, device to device connectivity framework. Coming soon to a device near you."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#BFFF68'
+
+# Footer settings
+footer: REON.IO
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/reon.io
+  - title: facebook
+    url:
+  - title: github
+    url: https://github.com/reon-io
+
+# Build settings
+markdown: kramdown
+permalink: pretty
